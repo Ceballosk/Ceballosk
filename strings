@@ -1,3 +1,6 @@
+#Python"
+# Tæller den første item som optræder 1 gang
+
 test_str = "StayingInheredk"
 test_str = test_str.lower()
 
