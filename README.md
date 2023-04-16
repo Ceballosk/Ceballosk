@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ceballosk
-- 👀 I’m interested in finish my Master Thesis
+- 👀 I’m interested in data science 
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email
